@@ -1,4 +1,4 @@
-# Tableau_DashBoard
+# The Role of Data Visualization in Child Welfare Initiatives
 
 
 The primary problem we aim to address with this data project is the inadequate understanding
@@ -51,8 +51,13 @@ program effectiveness, and improving stakeholder engagement. Additionally, the p
 explore future research avenues, such as integrating real-time monitoring systems and
 conducting longitudinal studies to evaluate the long-term impacts of KARA's interventions.
 
+
 A detailed implementation plan will be developed to ensure the project's success, outlining
 the steps for integrating the findings into KARA's existing frameworks. Regular progress
 meetings with stakeholders will be held to review milestones, address any issues, and ensure
 continuous alignment with project objectives. The project will protect sensitive information
 and uphold the highest ethical standards by focusing on data privacy and security.
+
+The link for the dashboard is:
+https://public.tableau.com/shared/8KB49B4DB?:display_count=n&:origin=viz_share_link
+

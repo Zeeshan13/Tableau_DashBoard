@@ -59,5 +59,5 @@ continuous alignment with project objectives. The project will protect sensitive
 and uphold the highest ethical standards by focusing on data privacy and security.
 
 The link for the dashboard is:
-https://public.tableau.com/shared/8KB49B4DB?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/TheRoleofDataVisualizationinChildWelfareInitiatives/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
